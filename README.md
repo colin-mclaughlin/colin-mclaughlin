@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @colin-mclaughlin
-- 👀 I’m interested in Coding (AI), Working out, Chess, and Guitar
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning about basic Natural Language Processing concepts, such as sentiment analysis and text summarization.
 - 💞️ I’m looking to collaborate on Natural Language Processing related projects
-- 📫 How to reach me ...
+- 📫 How to reach me: cmclaughlin567@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoy playing the guitar!
 
 <!---
 colin-mclaughlin/colin-mclaughlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
