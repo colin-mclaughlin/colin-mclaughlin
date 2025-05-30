@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning about basic Natural Language Processing concepts, such as sentiment analysis and text summarization.
 - 💞️ I’m looking to collaborate on Natural Language Processing related projects
-- 📫 How to reach me: cmclaughlin567@gmail.com
+- 📫 How to reach me: colinwmclaughlin@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing the guitar!
 
