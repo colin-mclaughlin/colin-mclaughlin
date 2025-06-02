@@ -2,15 +2,11 @@
 
 I'm a Computer Science student at Queen’s University specializing in Artificial Intelligence. I enjoy building real-world AI tools and exploring how machine learning can be applied to solve practical problems.
 
----
-
 ## 💡 Current Interests
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Natural Language Processing (sentiment analysis, summarization)
 - 🛠️ Leading a Reinforcement Learning project @ [QMIND](https://qmind.ca)  
-
----
 
 ## 🚀 Projects
 
@@ -25,15 +21,11 @@ Here are some of the projects I'm working on:
 - 📰 **[Article Summarizer](https://github.com/colin-mclaughlin/article-summarizer)**  
   Quickly summarizes long-form content using extractive summarization methods.
 
----
-
 ## 🔗 Find Me Elsewhere
 
 - 💼 [LinkedIn](www.linkedin.com/in/colinwmclaughlin)
 - 📫 Reach me at **colinwmclaughlin@outlook.com**
 - 🌐 Personal website coming soon!
-
----
 
 <!-- Optional GitHub stats badge, if you want -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=colin-mclaughlin&show_icons=true&hide_title=true&theme=default) -->
