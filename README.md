@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Colin McLaughlin
+# 👋 Hi, I'm Colin
 
 I'm a Computer Science student at Queen’s University specializing in Artificial Intelligence. I enjoy building real-world AI tools and exploring how machine learning can be applied to solve practical problems.
 
