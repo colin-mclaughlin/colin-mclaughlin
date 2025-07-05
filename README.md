@@ -25,7 +25,7 @@ Here are some of the projects I'm working on:
 
 - 💼 [LinkedIn](www.linkedin.com/in/colinwmclaughlin)
 - 📫 Reach me at **colinwmclaughlin@outlook.com**
-- 🌐 Personal website coming soon!
+- 🌐 Personal website: https://www.colinmclaughlin.dev
 
 <!-- Optional GitHub stats badge, if you want -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=colin-mclaughlin&show_icons=true&hide_title=true&theme=default) -->
