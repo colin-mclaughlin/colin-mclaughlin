@@ -1,35 +1,32 @@
 # 👋 Hi, I'm Colin
 
-I'm a Computer Science student at Queen’s University specializing in Artificial Intelligence. I enjoy building real-world AI tools and exploring how machine learning can be applied to solve practical problems.
+I'm a Computer Science student at Queen’s University specializing in Artificial Intelligence. I enjoy building real-world tools that combine machine learning, productivity, and automation. Lately, I’ve been especially interested in how AI can organize information, generate content, and assist with everyday tasks.
 
 ## 💡 Current Interests
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Natural Language Processing (sentiment analysis, summarization)
-- 🛠️ Leading a Reinforcement Learning project @ [QMIND](https://qmind.ca)  
+- 🤖 Reinforcement Learning
+- 🧠 Natural Language Processing (summarization, semantic search)
+- 📁 Developing a local-first app for file intelligence & organization
+- 🛠️ Leading a Reinforcement Learning x LLM project @ [QMIND](https://qmind.ca)
 
 ## 🚀 Projects
 
-Here are some of the projects I'm working on:
+- 🔍 **[SortSeek](https://github.com/colin-mclaughlin/sortseek)**  
+  A local-first desktop app that semantically summarizes, names, and organizes documents with AI. Built with Electron, React, FastAPI, and LangChain.
 
-- 🔧 **[AutoDoc Agent](https://github.com/colin-mclaughlin/AutoDoc-Agent)**  
-  AI-powered tool that scans GitHub repos on push requests (or through manual action) and automatically generates documentation and README files.
+- 🌐 **[Portfolio Website](https://github.com/colin-mclaughlin/portfolio)**  
+  A 3D animated developer portfolio built with React, Tailwind CSS, and Three.js to showcase my work and skills in a sleek interactive layout.
 
-- 📊 **[Amazon Sentiment Analysis](https://github.com/colin-mclaughlin/amazon-sentiment-analysis)**  
-  A project that uses NLP to classify sentiment and visualize data in Amazon product reviews.
-
-- 📰 **[Article Summarizer](https://github.com/colin-mclaughlin/article-summarizer)**  
-  Quickly summarizes long-form content using extractive summarization methods.
+- 🧠 **[AutoDoc Agent](https://github.com/colin-mclaughlin/AutoDoc-Agent)**  
+  A GitHub-integrated AI assistant that scans repositories and auto-generates README files and code documentation using OpenAI.
 
 ## 🔗 Find Me Elsewhere
 
-- 💼 [LinkedIn](www.linkedin.com/in/colinwmclaughlin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/colinwmclaughlin)
 - 📫 Reach me at **colinwmclaughlin@outlook.com**
 - 🌐 Personal website: https://www.colinmclaughlin.dev
 
-<!-- Optional GitHub stats badge, if you want -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=colin-mclaughlin&show_icons=true&hide_title=true&theme=default) -->
-
 
 <!---
 colin-mclaughlin/colin-mclaughlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
