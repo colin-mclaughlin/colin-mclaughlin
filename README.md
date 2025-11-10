@@ -3,8 +3,6 @@
 I'm a Computer Science student at **Queen’s University**, specializing in **Artificial Intelligence**.  
 I enjoy building end-to-end AI systems that blend **machine learning, automation, and developer tools**, turning complex workflows into intuitive software.
 
----
-
 ## Experience
 
 - **AI Software Developer @ Ostar Education (Summer 2025)**  
@@ -16,8 +14,6 @@ I enjoy building end-to-end AI systems that blend **machine learning, automation
 
 - **AI Developer – NLP @ QMIND (2024–2025)**  
   Trained CNN models (TensorFlow) to classify emotion from EEG data with **95 % accuracy** and produced analytic visualizations that accelerated model iteration.
-
----
 
 ## Featured Projects
 
@@ -31,8 +27,6 @@ I enjoy building end-to-end AI systems that blend **machine learning, automation
 
 - **[Portfolio Website](https://github.com/colin-mclaughlin/portfolio)**  
   A 3D interactive portfolio built with **React, Tailwind CSS, and Three.js**, showcasing my projects and experience alongside some cool 3D-models and animations!
-
----
 
 ## Connect
 
