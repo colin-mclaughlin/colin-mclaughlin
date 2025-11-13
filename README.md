@@ -1,7 +1,6 @@
 # Hi, I'm Colin
 
-I'm a Computer Science student at **Queen’s University**, specializing in **Artificial Intelligence**.  
-I enjoy building end-to-end AI systems that blend machine learning, automation, and developer tools, turning complex workflows into intuitive software.
+I'm a third year Computer Science student at **Queen’s University**, specializing in **Artificial Intelligence**. I enjoy building end-to-end AI systems that blend machine learning, automation, and developer tools, turning complex workflows into intuitive software.
 
 ## Experience
 
