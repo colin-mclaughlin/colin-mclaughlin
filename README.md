@@ -16,12 +16,10 @@ I'm a third year Computer Science student at **Queen’s University**, specializ
 ## Featured Projects
 
 - **[Visulo](https://github.com/colin-mclaughlin/visulo)**  
-  A **privacy-first AI study overlay** that captures on-screen text or regions, performs OCR, retrieves grounded explanations with citations, and generates exportable flashcards and quizzes.  
-  Built with **Tauri, React/TypeScript, Rust, SQLite, FAISS**, and **OpenAI/Ollama**.
+  A **privacy-first AI study overlay** that captures on-screen text or regions, performs OCR, retrieves grounded explanations with citations, and generates exportable flashcards and quizzes. Built with **Tauri, React/TypeScript, Rust, SQLite, FAISS**, and **OpenAI/Ollama**.
 
 - **[CodeOps Agent](https://github.com/colin-mclaughlin/codeops-agent)**  
-  An **agentic DevOps assistant** that monitors GitHub CI pipelines, retrieves semantic context from code and logs, and autonomously proposes and tests fixes.  
-  Uses **FastAPI, LangGraph, FAISS, Docker**, and **OpenAI/Claude** with modular **MCP tools** for sandboxed reasoning.
+  An **agentic DevOps assistant** that monitors GitHub CI pipelines, retrieves semantic context from code and logs, and autonomously proposes and tests fixes. Uses **FastAPI, LangGraph, FAISS, Docker**, and **OpenAI/Claude** with modular **MCP tools** for sandboxed reasoning.
 
 - **[Portfolio Website](https://github.com/colin-mclaughlin/portfolio)**  
   A 3D interactive portfolio built with **React, Tailwind CSS, and Three.js**, showcasing my projects and experience with some cool 3D-models and animations!
