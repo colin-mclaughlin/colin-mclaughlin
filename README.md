@@ -1,6 +1,6 @@
 # Hi, I'm Colin
 
-I'm a third year Computer Science student at **Queen’s University**, specializing in **Artificial Intelligence**. I enjoy building end-to-end AI systems that blend machine learning, automation, and developer tools, turning complex workflows into intuitive software.
+I'm a third year Computer Science student at Queen’s University, specializing in Artificial Intelligence. I enjoy building end-to-end AI systems that blend machine learning, automation, and developer tools and can turn complex workflows into intuitive software.
 
 ## Experience
 
@@ -8,7 +8,7 @@ I'm a third year Computer Science student at **Queen’s University**, specializ
   Built and deployed a full-stack AI lesson-generation platform using **FastAPI, React, PostgreSQL, and OpenAI API**, automating K-12 worksheet creation and cutting teacher prep time from 45 to 5 minutes. Platform is currenty in use by 5+ K-12 teachers, and has generated 150+ worksheets since deployment. Set up **CI/CD pipelines**, **Nginx reverse proxying**, and **systemd service management** for production deployment.
 
 - **Project Lead @ QMIND × Technical Management Group Ltd. (2025–Present)**  
-  Leading a team of developers to automate contractor CV generation for **Technical Management Group Ltd.**, a mining & energy consulting company, using **LangChain** and **GPT-4**, reducing a 45-minute manual process to 2 minute proofread.
+  Leading a team of developers to automate contractor CV generation for **Technical Management Group Ltd.**, a mining & energy consulting company, using LLM's and automation with Python, reducing a 45-minute manual process to 2 minute proofread.
 
 - **AI Developer – NLP @ QMIND (2024–2025)**  
   Trained a CNN model (TensorFlow) to classify emotion from EEG data with **95 % accuracy**, and produced analytic visualizations that helped to accelerate model iteration.
